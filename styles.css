@@ -1,38 +1,46 @@
 #card, #info {
-	padding: 10px;
-	border: 2px solid #ccc;
+    padding: 10px;
+    border: 2px solid #ccc;
 }
+
 #card {
-	max-width: 300px;
-	box-shadow: 0 6px 10px 0 #999;
-	border-radius: 3px;
-	font-family: Arial, sans-serif;
-	margin: 30px auto;
+    max-width: 300px;
+    box-shadow: 0 6px 10px 0 #999;
+    border-radius: 3px;
+    font-family: Arial, sans-serif;
+    margin: 30px auto;
 }
+
 h3 {
-	margin: 0;
-	padding: 5px 0;
-	font-size: 1.5em;
+    margin: 0;
+    padding: 5px 0;
+    font-size: 1.5em;
 }
+
 img {
-	width: 300px;
-	padding: 5px 0;
+    width: 300px;
+    padding: 5px 0;
 }
+
 #info {
-	font-size: 12px;
-	font-style: italic;
+    font-size: 12px;
+    font-style: italic;
 }
+
 #info ul, li {
-	padding:0;
-	list-style: none;
+    padding: 0;
+    list-style: none;
 }
+
 #info li span {
-	font-weight: bold;
+    font-weight: bold;
 }
+
 #info p:first-child {
-	margin-top: 0;
-	padding:0;
+    margin-top: 0;
+    padding: 0;
 }
+
 #info p:last-child, #info ul span {
-	font-style: normal;
+    font-style: normal;
 }
